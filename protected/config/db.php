@@ -4,9 +4,9 @@
 
 return array(
 	'class'=>'CDbConnection',
-	'emulatePrepare' => true,
-	'connectionString'=>'mysql:host=localhost;dbname=databasename',
-	'username'=>'user',
-	'password'=>'password',
+	'connectionString'=>'mysql:host=localhost;dbname=yii-web',
+	'username'=>'root',
+	'password'=>'',
 	'charset'=>'utf8',
+	'emulatePrepare' => true,
 );
