@@ -1,3 +1,6 @@
 [submodule "framework"]
 	path = framework
 	url = git://github.com/yiisoft/yii.git
+[submodule "protected/modules/user"]
+	path = protected/modules/user
+	url = git://github.com/mishamx/yii-user.git
